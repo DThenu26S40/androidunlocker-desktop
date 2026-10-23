@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff1a26"/>
+      <stop offset="100%" stop-color="#f7ff8b"/>
+    </linearGradient>
+    <pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="1.5" fill="#b4a89e" opacity="0.2"/>
+    </pattern>
+  </defs>
+  
+        <rect width="1280" height="640" fill="#534b17"/>
+        <circle cx="640" cy="320" r="400" fill="#ff1a26" opacity="0.12" filter="blur(100px)"/>
+        <circle cx="640" cy="320" r="250" fill="none" stroke="#ff1a26" stroke-width="1.5" opacity="0.2"/>
+        <circle cx="640" cy="320" r="150" fill="none" stroke="#f7ff8b" stroke-width="2" opacity="0.3" stroke-dasharray="10 10"/>
+        <text x="640" y="180" fill="#ffffff" font-family="system-ui, sans-serif" font-size="72" font-weight="900" text-anchor="middle">Androidunlocker</text>
+<text x="640" y="250" fill="#ffffff" font-family="system-ui, sans-serif" font-size="72" font-weight="900" text-anchor="middle">Desktop</text>
+
+        <text x="640" y="360" fill="#b4a89e" font-family="system-ui, sans-serif" font-size="24" text-anchor="middle">Professional Android unlock utility, ready to run.</text>
+        <rect x="590" y="400" width="100" height="4" rx="2" fill="#ff1a26"/>
+        <g transform="translate(400, 500)">
+    <g font-family="system-ui, sans-serif" font-size="14" fill="#ffffff" font-weight="600">
+      <rect x="0" y="0" width="100" height="40" rx="20" fill="#ff1a26" fill-opacity="0.15" stroke="#ff1a26" stroke-width="1"/>
+      <text x="50" y="25" text-anchor="middle">104 stars</text>
+      <rect x="115" y="0" width="150" height="40" rx="20" fill="#f7ff8b" fill-opacity="0.15" stroke="#f7ff8b" stroke-width="1"/>
+      <text x="190" y="25" text-anchor="middle">31K+ downloads</text>
+      <rect x="280" y="0" width="100" height="40" rx="20" fill="#534b17" stroke="#2c2b28" stroke-width="1"/>
+      <text x="330" y="25" text-anchor="middle">Windows</text>
+    </g>
+    </g>
+        
+</svg>
